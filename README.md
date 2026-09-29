@@ -1,6 +1,6 @@
 # SlotSecure
 
-Smart Laboratory and Equipment Scheduling System
+Smart Laboratory and Equipment Scheduling Solution
 ## Project Objective
 
 SlotSecure provides a centralized platform for scheduling laboratories and equipment.
